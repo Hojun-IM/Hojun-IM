@@ -1,7 +1,7 @@
 <h1>Hi! I'm Hojun Im👋</h1>
 
 <h3>I'm a student from Gachon University, South Korea.</h3>
-<h2>I'm majoring English Literature and double majoring Software</h2>
+<h4>I'm majoring English Literature and double majoring Software</h4>
 
 <h3> Currently learing :book: </h3>
 
